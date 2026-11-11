@@ -18,5 +18,5 @@ Thumbs.db
 *.log
 npm-debug.log*
 
-# Package lock (use npm ci for deterministic installs)
-package-lock.json
+# Test coverage (npx vitest run --coverage)
+coverage/
